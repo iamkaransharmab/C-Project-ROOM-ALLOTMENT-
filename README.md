@@ -21,3 +21,9 @@ ER Diagram of This ROOM ALLOTMENT PROJECT:
 
 ![image](https://user-images.githubusercontent.com/61596570/189484825-c12d13c1-4217-4b52-b784-fe6c3b672b3c.png)
 
+
+
+
+//THANKS FOR VISIT
+
+// YES ? You can use this project for learning purpose :)
