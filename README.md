@@ -22,6 +22,14 @@ ER Diagram of This ROOM ALLOTMENT PROJECT:
 ![image](https://user-images.githubusercontent.com/61596570/189484825-c12d13c1-4217-4b52-b784-fe6c3b672b3c.png)
 
 
+OUTPUT PREVIEW :
+
+
+![ROOM-Output1](https://user-images.githubusercontent.com/61596570/189523962-e457305f-3210-4f3b-a5db-ba7ec43d30d6.png)
+
+
+![ROOM-Output2](https://user-images.githubusercontent.com/61596570/189523977-1645ea97-4c01-444b-9af0-cdc917b9d713.png)
+
 
 
 //THANKS FOR VISIT
